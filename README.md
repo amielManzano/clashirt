@@ -1,5 +1,5 @@
-# CLASH Tee Studio
+# CLASH Player Shirt
 
-Design tool for the CLASH badminton club shirt: pick shirt and ink colours, T-shirt or sleeveless, front print, and the name and number on the back, then download the mockup and print files.
+The official CLASH badminton club shirt. Pick T-shirt or sleeveless, type your last name and number for the back, then download your print files.
 
 Open it at https://amielmanzano.github.io/clashirt/ — everything runs in the browser in a single `index.html`.
